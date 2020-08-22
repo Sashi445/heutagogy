@@ -1,4 +1,4 @@
 //
 .
 .
-Here you can find all frontend of the application.
+Here you can find all frontendpart of the application.
